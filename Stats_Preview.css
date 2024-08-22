@@ -1,16 +1,16 @@
 body{
     background-color: hsl(233, 47%, 7%);
     font-family: 'Lexand Deca', sans-serif;
-    display: flex;
+    /* display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh; */
 }
 .card{
     display: flex;
     flex: 1;
     background-color: hsl(244, 38%, 16%);
-    width: auto;
+    width: 80%;
     justify-content: center;
 
 
